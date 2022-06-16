@@ -1,5 +1,7 @@
 # Pinterest Clone - Social Media Application
 
+![screen-shot](https://user-images.githubusercontent.com/35512173/174164049-e2b8dcf3-9605-4214-a4d2-3eb236b339f5.png)
+
 ## :link: [Pinterest Clone](https://pinterest-hermcode.netlify.app/)
 Hi there! In this project I decided to make a Social Media Application to share images inspired by Pinterest.
 
